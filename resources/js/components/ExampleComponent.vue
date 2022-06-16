@@ -7,6 +7,7 @@
                     <div class="card-body">
                         <a href="/employees">Crear empleados</a>
                         <a href="/show">Ver listado de empleados</a>
+                        
                     </div>
                 </div>
             </div>

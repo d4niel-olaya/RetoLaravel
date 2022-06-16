@@ -17,5 +17,9 @@ class ContractSeeder extends Seeder
         $c = new Contract();
         $c -> type = 'Ops';
         $c->save();
+
+        $c2 = new Contract();
+        $c2 -> type = 'Termino fijo';
+        $c2 -> save();
     }
 }

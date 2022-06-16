@@ -22,6 +22,7 @@
     </head>
     <body class="antialiased">
         <div id="app">
+            <p v-text="message"></p>
             <example-component></example-component>
         </div>
        

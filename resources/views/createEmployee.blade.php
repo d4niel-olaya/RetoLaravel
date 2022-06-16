@@ -29,6 +29,9 @@
                 <option value="1">Masculino</option>
                 <option value="2">Femenino</option>
             </select>
+            <select name="tipoc" id="">
+                <option value="1">Ops</option>
+            </select>
             <button class="btn btn-primary">
                 Enviar
             </button>
